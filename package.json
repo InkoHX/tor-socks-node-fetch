@@ -1,0 +1,12 @@
+{
+  "name": "tor-socks-node-fetch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/InkoHX/tor-socks-node-fetch.git",
+  "author": "InkoHX <me@inkohx.dev>",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "socks-proxy-agent": "^5.0.0"
+  }
+}
